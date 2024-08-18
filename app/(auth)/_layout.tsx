@@ -4,7 +4,7 @@ const Layout = () => {
   return (
     <Stack>
       <Stack.Screen
-        name="Welcome"
+        name="onboarding"
         options={{ headerShown: false }}
       ></Stack.Screen>
       <Stack.Screen
